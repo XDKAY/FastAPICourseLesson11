@@ -41,8 +41,8 @@ session_token: "invalid_token_value"
 
 # Запуск
 
-1. `git clone git@github.com:XDKAY/FastAPICourseLesson10.git`
-2. `cd FastAPICourseLesson10`
+1. `git clone git@github.com:XDKAY/FastAPICourseLesson11.git`
+2. `cd FastAPICourseLesson11`
 3. `uv venv`
 4. `source .venv/bin/activate`
 5. `uv sync`
